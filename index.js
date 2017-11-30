@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react'
+import React from 'react'
+import PropTypes from 'prop-types'
 import {requireNativeComponent, View, NativeModules} from 'react-native'
 
 class RCTVrVideoView extends React.Component {
